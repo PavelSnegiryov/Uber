@@ -8,4 +8,5 @@ Used technologies/tools/languages:
 - CSS;
 - JS;
 - SASS;
-- GULP.
+- GULP;
+- BOOTSTRAP.
